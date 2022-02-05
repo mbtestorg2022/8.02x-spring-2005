@@ -64,54 +64,554 @@ Note: OCW Users will not be able to access this material.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Twelve Problem Sets | 20% |
-| Ten Mastering Physics | 10% |
-| Nine Experiments | 10% |
-| Four Quizzes (15% each) | 60% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Twelve Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ten Mastering Physics
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nine Experiments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four Quizzes (15% each)
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: Fundamental Forces | &nbsp; |
-| 2 | Electric Charge and E.S. Induction | Problem set 1 with meter introduction experiment out. |
-| 3 | Coulomb's Law | &nbsp; |
-| 4 | Electric Field | Problem set 2 with low voltage power supply out. |
-| 5 | Electric Field and Polarization | Problem set 1 with meter introduction experiment due. |
-| 6 | Gauss' Law | &nbsp; |
-| 7 | E-Field: Work, Energy, Potential (1/2) | Problem set 3 with high voltage power supply experiment out. |
-| 8 | Review for Quiz 1  {{< br >}}  {{< br >}}Evening Review | Problem set 2 with low voltage power supply due. |
-| &nbsp; | Quiz 1 | &nbsp; |
-| 9 | E-Field: Work, Energy, Potential (2/2) | Problem set 4 out. |
-| 10 | Conductors and Insulators | Problem set 3 due. |
-| 11 | Capacitance | &nbsp; |
-| 12 | Capacitance (2/2), E-Fields in Matter | Problem set 5 with electrostatic force experiment out. |
-| 13 | E.S. Force Experiment | Problem set 4 with high voltage power supply experiment due. |
-| 14 | Electric Current, Ohm's Law | &nbsp; |
-| 15 | Electric Circuits | Problem set 6 with voltage and current experiment out. |
-| 16 | Review for Quiz 2  {{< br >}}  {{< br >}}Evening Review | Problem set 5 with electrostatic force experiment due. |
-| &nbsp; | Quiz 2 | &nbsp; |
-| 17 | RC Circuits | Problem set 7 with electric breakdown experiment out. |
-| 18 | Ionization, Electrical Breakdown Experiment | Problem set 6 with voltage and current experiment due. |
-| 19 | Magnetic Field - Lorentz Force | &nbsp; |
-| 20 | Magnetic Field Sources; Biot-Savart's Law | Problem set 8 with magnetic force experiment out. |
-| 21 | Magnetic Field - Ampere's Law | Problem set 7 due. |
-| 22 | Magnetic Fields in Matter | &nbsp; |
-| 23 | Magnetic Induction - Faraday's Law | Problem set 9 out. |
-| 24 | Review for Quiz 3  {{< br >}}  {{< br >}}Evening Review | Problem set 8 with magnetic force experiment due. |
-| &nbsp; | Quiz 3 | &nbsp; |
-| 25 | Magnetic Induction - Lenz's Law, Eddy Currents | Problem set 10 with amplifier experiment out. |
-| 26 | Inductance | Problem set 9 due. |
-| 27 | AC Circuits | Problem set 11 with microwave experiment out. |
-| 28 | RL Circuits | Problem set 10 due. |
-| 29 | RLC Circuits | &nbsp; |
-| 30 | Displacement Current and Maxwell's Equations | &nbsp; |
-| 31 | Electromagnetic Waves | Problem set 12 out.  {{< br >}}  {{< br >}}Problem set 11 with amplifier experiment due. |
-| 32 | Review for Quiz 4  {{< br >}}  {{< br >}}Evening Review | &nbsp; |
-| &nbsp; | Quiz 4 | &nbsp; |
-| 33 | Polarization-Microwave Experiment | Problem set 12 due. |
-| 34 | Interference, Diffraction, Scattering (1/2) | &nbsp; |
-| 35 | Interference, Diffraction, Scattering (2/2) | Microwave experiment due.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Fundamental Forces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Electric Charge and E.S. Induction
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 with meter introduction experiment out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Coulomb's Law
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Electric Field
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 with low voltage power supply out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Electric Field and Polarization
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 with meter introduction experiment due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Gauss' Law
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+E-Field: Work, Energy, Potential (1/2)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 with high voltage power supply experiment out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Quiz 1  
+  
+Evening Review
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 with low voltage power supply due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+E-Field: Work, Energy, Potential (2/2)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Conductors and Insulators
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Capacitance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Capacitance (2/2), E-Fields in Matter
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 with electrostatic force experiment out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+E.S. Force Experiment
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 with high voltage power supply experiment due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Electric Current, Ohm's Law
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Electric Circuits
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 with voltage and current experiment out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Quiz 2  
+  
+Evening Review
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 with electrostatic force experiment due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+RC Circuits
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 with electric breakdown experiment out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Ionization, Electrical Breakdown Experiment
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 with voltage and current experiment due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Field - Lorentz Force
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Field Sources; Biot-Savart's Law
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 with magnetic force experiment out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Field - Ampere's Law
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Fields in Matter
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Induction - Faraday's Law
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Quiz 3  
+  
+Evening Review
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 with magnetic force experiment due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Induction - Lenz's Law, Eddy Currents
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 with amplifier experiment out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Inductance
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+AC Circuits
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 11 with microwave experiment out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+RL Circuits
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+RLC Circuits
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Displacement Current and Maxwell's Equations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic Waves
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 12 out.  
+  
+Problem set 11 with amplifier experiment due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Quiz 4  
+  
+Evening Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Polarization-Microwave Experiment
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 12 due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Interference, Diffraction, Scattering (1/2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Interference, Diffraction, Scattering (2/2)
+{{< tdclose >}}
+{{< tdopen >}}
+Microwave experiment due.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
