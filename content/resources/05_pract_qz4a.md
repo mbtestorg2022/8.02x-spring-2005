@@ -4,6 +4,12 @@ description: This resource contains problems of mutual inductance, transformer a
   lc circuit, lr circuit, and displacement current.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/bbaf44b2b08b84263c65407f41e4b6d6_05_pract_qz4a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
+parent_uid: c62bf1ba-c93a-1174-a4ef-d24a2de4113d
 resourcetype: Document
 title: 05_pract_qz4a.pdf
 uid: bbaf44b2-b08b-8426-3c65-407f41e4b6d6

@@ -8,6 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: elctrc_breakdown.jpg
 uid: f32e60f5-fdaa-fa72-c72c-5eab74464859

@@ -8,6 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Untitled1.jpg
 uid: 6e2e8b08-174d-59dd-5cdf-902814a39d66
