@@ -47,7 +47,7 @@ Problem Set 2 and Low Voltage Power Supply (LVPS) Experiment ([PDF]({{< baseurl 
 Problem Set 3 and High Voltage Power Supply (HVPS) Experiment ([PDF]({{< baseurl >}}/resources/802x_05_pset3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/802x_05_sol3))
+([PDF]({{< baseurl >}}/resources/802x_05_sol3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/802x_05_pset5))
 Electrostatic Force (EF) Experiment ([PDF]({{< baseurl >}}/resources/802x_05_ef))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/802x_05_sol5))
+([PDF]({{< baseurl >}}/resources/802x_05_sol5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/802x_05_pset7))
 Electric Breakdown (EB) Experiment ([PDF]({{< baseurl >}}/resources/802x_05_eb))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/802x_05_sol7))
+([PDF]({{< baseurl >}}/resources/802x_05_sol7))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +107,7 @@ Problem Set 9 and Amplifier (AMP) Experiment ([PDF]({{< baseurl >}}/resources/80
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/802x_05_sol9))  
   
-MF Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/802x_05_mf_sol))
+MF Solutions ([PDF]({{< baseurl >}}/resources/802x_05_mf_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
